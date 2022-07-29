@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thalis 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalisMontelongo&show_icons=true&theme=tokyonight) 
-![]<a href="https://github.com/ThalisMontelongo/github-readme-stats"></a></a>
+![]<a href="https://github.com/ThalisMontelongo/github-readme-stats"></a></a><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalisMontelongo&hide)](https://github.com/ThalisMontelongo/github-readme-stats)
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=ThalisMontelongo](https://github-readme-streak-stats.herokuapp.com/?user=ThalisMontelongo)
 ![](https://github-profile-trophy.vercel.app/?username=ThalisMontelongo)
