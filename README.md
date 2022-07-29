@@ -4,7 +4,7 @@
 <a href="https://github.com/ThalisMontelongo/github-readme-stats"></a></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalisMontelongo&hide)](https://github.com/ThalisMontelongo/github-readme-stats)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalisMontelongo)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=](https://github-readme-streak-stats.herokuapp.com/?user=ThalisMontelongo)
 <br>
 ## Tecnologias que eu uso no meu dia a dia 
 <br>
