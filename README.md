@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thalis Alison</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A Profissional frontend developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thalismontelongo" alt="thalismontelongo" /></a> </p>
 
