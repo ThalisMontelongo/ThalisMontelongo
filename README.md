@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Thalis Alison</h1>
-  <h3>Senior Full-Stack Developer | Building Scalable Web Solutions from Brazil 🇧🇷</h3>
+  <h3>Pleno Full-Stack Developer | Building Scalable Web Solutions from Brazil 🇧🇷</h3>
   <p>Crafting robust, user-centric platforms with a focus on performance, scalability, and modern tech stacks.</p>
 
   <a href="https://www.thalisalison.com">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full-Stack Developer** with extensive experience building end-to-end web applications, from pixel-perfect frontends to scalable backends and CI/CD pipelines. My passion lies in solving complex problems with clean code, modern frameworks, and cloud-native architectures. Currently, I'm leading the development of [**Barkeiros.com**](#barkeiros), a SaaS platform revolutionizing boat rentals for fishing enthusiasts, inspired by Airbnb's marketplace model.
+I'm a **Pleno Full-Stack Developer** with extensive experience building end-to-end web applications, from pixel-perfect frontends to scalable backends and CI/CD pipelines. My passion lies in solving complex problems with clean code, modern frameworks, and cloud-native architectures. Currently, I'm leading the development of [**Barkeiros.com**](#barkeiros), a SaaS platform revolutionizing boat rentals for fishing enthusiasts, inspired by Airbnb's marketplace model.
 
 - 🌟 **Expertise**: React, Node.js, TypeScript, Next.js, PHP, PostgreSQL, Docker, AWS, and more.
 - 🛠 **Focus**: Scalable SaaS platforms, responsive UI/UX, API design, and DevOps.
