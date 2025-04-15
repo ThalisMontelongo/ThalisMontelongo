@@ -1,15 +1,101 @@
-<h1 align="center">Hi 👋, I'm Thalis Alison</h1>
-<h3 align="center">A Profissional frontend developer from Brazil</h3>
+<div align="center">
+  <h1>👋 Hey, I'm Thalis Alison</h1>
+  <h3>Senior Full-Stack Developer | Building Scalable Web Solutions from Brazil 🇧🇷</h3>
+  <p>Crafting robust, user-centric platforms with a focus on performance, scalability, and modern tech stacks.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thalismontelongo" alt="thalismontelongo" /></a> </p>
+  <a href="https://www.thalisalison.com">
+    <img src="https://img.shields.io/badge/-Portfolio-1a73e8?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/thalismontelongo">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.buymeacoffee.com/ThalisAlison">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=Buy-Me-A-Coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</div>
 
-- 🔭 I’m currently working on [Barkeiros](www.barkeiros.com)
+---
 
-- 📄 Know about my experiences [www.thalisalison.com](www.thalisalison.com)
+## 🚀 About Me
 
+I'm a **Senior Full-Stack Developer** with extensive experience building end-to-end web applications, from pixel-perfect frontends to scalable backends and CI/CD pipelines. My passion lies in solving complex problems with clean code, modern frameworks, and cloud-native architectures. Currently, I'm leading the development of [**Barkeiros.com**](#barkeiros), a SaaS platform revolutionizing boat rentals for fishing enthusiasts, inspired by Airbnb's marketplace model.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🌟 **Expertise**: React, Node.js, TypeScript, Next.js, PHP, PostgreSQL, Docker, AWS, and more.
+- 🛠 **Focus**: Scalable SaaS platforms, responsive UI/UX, API design, and DevOps.
+- 📫 **Reach me**: [thalisalison.com](https://www.thalisalison.com) | [LinkedIn](https://linkedin.com/in/thalismontelongo)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ThalisAlison"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ThalisAlison" /></a></p><br><br>
+---
+
+## 🌊 Barkeiros.com: A SaaS-Powered Boat Rental Platform
+
+🔗 [**Live Demo**](https://www.barkeiros.com) | [**Repository** (Private)](https://github.com/thalismontelongo/barkeiros)
+
+**Barkeiros** is a full-fledged SaaS platform designed to connect boat owners with fishing enthusiasts, offering a seamless rental experience akin to Airbnb. Built with a modern tech stack, it features real-time booking, payment integration, user dashboards, and a scalable backend.
+
+### ✨ Key Features
+- **Marketplace**: Dynamic listings with search, filters, and favorites.
+- **Booking System**: Real-time availability and secure payments (Mercado Pago integration).
+- **Dashboards**: Role-based interfaces for admins, owners, and renters.
+- **SaaS Architecture**: Multi-tenant design with subscription plans for boat owners.
+- **Responsive UI**: Mobile-first design with Tailwind CSS and React.
+
+### 🛠 Tech Stack
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express, PostgreSQL
+- **Infra**: Docker, AWS (EC2, S3), CI/CD with GitHub Actions
+- **Tools**: Figma, GraphQL, Firebase (auth)
+
+> **Why SaaS?** Barkeiros adopts a subscription model for boat owners, enabling recurring revenue while providing renters with a free, intuitive experience. Think Snyk's developer-first approach—scalable, secure, and user-focused.
+
+---
+
+## 🧰 Skills & Tools
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalismontelongo&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalismontelongo&layout=compact&theme=radical" alt="Top Languages" width="350" />
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+I'm always open to collaborating on exciting projects or discussing tech trends. Feel free to reach out!
+
+- 🌐 [Portfolio](https://www.thalisalison.com)
+- 💼 [LinkedIn](https://linkedin.com/in/thalismontelongo)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/ThalisAlison)
+
+> "Code is like poetry—when done right, it solves problems elegantly." — Me, probably.
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thalismontelongo&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
