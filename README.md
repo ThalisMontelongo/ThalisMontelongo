@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Thalis Alison</h1>
-  <h3>SeniorFull-Stack Developer | Building Scalable Web Solutions from Brazil 🇧🇷</h3>
+  <h3>Senior Full-Stack Developer | Building Scalable Web Solutions from Brazil 🇧🇷</h3>
   <p>Crafting robust, user-centric platforms with a focus on performance, scalability, and modern tech stacks.</p>
 
   <a href="https://www.thalisalison.com">
